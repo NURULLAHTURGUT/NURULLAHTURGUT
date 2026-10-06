@@ -1,138 +1,66 @@
-<div align="center">
+<!-- Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:A1C4FD,100:C2E9FB&text=Nurullah%20Turgut&fontColor=2D3748&fontSize=48&fontAlignY=38&desc=Mobile%20Developer%20%E2%80%A2%20Flutter%20%26%20Dart&descAlignY=60&descSize=18" width="100%" alt="header" />
+</p>
 
-```text
-███╗   ██╗██╗   ██╗██████╗ ██╗   ██╗██╗     ██╗      █████╗ ██╗  ██╗
-████╗  ██║██║   ██║██╔══██╗██║   ██║██║     ██║     ██╔══██╗██║  ██║
-██╔██╗ ██║██║   ██║██████╔╝██║   ██║██║     ██║     ███████║███████║
-██║╚██╗██║██║   ██║██╔══██╗██║   ██║██║     ██║     ██╔══██║██╔══██║
-██║ ╚████║╚██████╔╝██║  ██║╚██████╔╝███████╗███████╗██║  ██║██║  ██║
-╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝
-```
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3500&pause=900&color=6C8EBF&center=true&vCenter=true&width=520&lines=Computer+Engineering+Student;Building+clean+%26+useful+mobile+apps;Flutter+%E2%80%A2+Supabase+%E2%80%A2+Clean+Architecture" alt="typing" />
+</p>
 
-### Mobile Developer · Flutter Enthusiast · Computer Engineering Student
+<p align="center">
+  <a href="https://www.linkedin.com/in/nurullah-turgut1907"><img src="https://img.shields.io/badge/LinkedIn-6C8EBF?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:turgutnurullah1907@gmail.com"><img src="https://img.shields.io/badge/Email-9DB4E0?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=nurullahturgut&label=Profile%20Views&color=A1C4FD&style=flat-square" alt="Profile views" />
+</p>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=nurullahturgut\&label=Profile+Views\&color=58A6FF\&style=flat-square)](https://github.com/nurullahturgut)
-[![GitHub Followers](https://img.shields.io/github/followers/nurullahturgut?label=Followers\&style=flat-square\&color=58A6FF)](https://github.com/nurullahturgut?tab=followers)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nurullah%20Turgut-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/nurullah-turgut1907)
+<br/>
 
-</div>
+## 👋 About Me
 
----
+Hi! I'm **Nurullah**, a Computer Engineering student who builds modern, clean and user-friendly mobile apps with **Flutter**. I care about clean code, solid architecture and thoughtful interfaces.
 
-```text
-nurullah@github:~$ whoami
+- 📱 Currently building mobile apps with **Flutter & Dart**
+- 🗄️ Working on scalable backend systems with **Supabase**
+- 🏗️ Improving my skills in **Clean Architecture** and code quality
+- 🤖 Exploring **Artificial Intelligence** technologies
+- 🎨 Passionate about UI/UX design
 
-> Computer Engineering Student
-> Mobile Application Developer
-> Flutter & Dart Enthusiast
-> Building modern, useful and user-friendly applications
-```
+<br/>
 
-## `> about_me`
+## 🛠️ Tech Stack
 
-```dart
-class NurullahTurgut {
-  final String role = "Computer Engineering Student";
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,python,supabase,firebase,postgres&perline=7" alt="Mobile & Backend" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=c,html,css,git,github,vscode&perline=6" alt="Tools" />
+</p>
 
-  final List<String> interests = [
-    "Mobile Application Development",
-    "Flutter & Dart",
-    "Backend Development",
-    "Artificial Intelligence",
-    "UI/UX Design",
-  ];
+<br/>
 
-  final List<String> currentlyLearning = [
-    "Advanced Flutter",
-    "Supabase",
-    "Clean Architecture",
-    "Artificial Intelligence",
-  ];
+## 📊 GitHub Stats
 
-  String contact() => "turgutnurullah1907@gmail.com";
-}
-```
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nurullahturgut&show_icons=true&hide_border=true&bg_color=00000000&title_color=6C8EBF&icon_color=9DB4E0&text_color=8B949E&rank_icon=github" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurullahturgut&layout=compact&hide_border=true&bg_color=00000000&title_color=6C8EBF&text_color=8B949E&langs_count=6" alt="Top Languages" />
+</p>
 
-## `> tech_stack`
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=nurullahturgut&hide_border=true&background=00000000&ring=A1C4FD&fire=6C8EBF&currStreakLabel=6C8EBF&sideLabels=8B949E&currStreakNum=8B949E&sideNums=8B949E&dates=8B949E&stroke=E1E4E8" alt="GitHub Streak" />
+</p>
 
-<div align="center">
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=nurullahturgut&bg_color=00000000&color=8B949E&line=A1C4FD&point=6C8EBF&area=true&area_color=C2E9FB&hide_border=true" alt="Contribution Graph" />
+</p>
 
-### Mobile Development
+<br/>
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge\&logo=android\&logoColor=white)
+## 📫 Get in Touch
 
-### Backend & Database
+Feel free to reach out for new projects, collaborations or just a friendly chat:
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge\&logo=supabase\&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+**✉️** [turgutnurullah1907@gmail.com](mailto:turgutnurullah1907@gmail.com) &nbsp;·&nbsp; **💼** [LinkedIn](https://www.linkedin.com/in/nurullah-turgut1907)
 
-### Web & Programming
-
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge\&logo=c\&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge\&logo=androidstudio\&logoColor=white)
-
-</div>
-
-## `> current_focus`
-
-```text
-[01] Building mobile applications with Flutter
-[02] Developing scalable backend systems with Supabase
-[03] Improving application architecture and code quality
-[04] Exploring artificial intelligence technologies
-[05] Creating clean and modern user interfaces
-```
-
-## `> github_stats`
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nurullahturgut&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Nurullah Turgut GitHub Statistics" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurullahturgut&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Nurullah Turgut Most Used Languages" />
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=nurullahturgut&theme=github-dark-blue&hide_border=true" alt="Nurullah Turgut GitHub Streak" />
-
-</div>
-
-## `> contribution_graph`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nurullahturgut&theme=github-compact&hide_border=true&area=true" alt="Nurullah Turgut Contribution Graph" />
-
-</div>
-
-## `> contact`
-
-```text
-Email    : turgutnurullah1907@gmail.com
-LinkedIn : linkedin.com/in/nurullah-turgut1907
-GitHub   : github.com/nurullahturgut
-```
-
-<div align="center">
-
-```text
-┌──────────────────────────────────────────────────────────┐
-│  Turning ideas into modern mobile applications.          │
-└──────────────────────────────────────────────────────────┘
-```
-
-</div>
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:C2E9FB,100:A1C4FD&section=footer" width="100%" alt="footer" />
+</p>
