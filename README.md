@@ -1,10 +1,10 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:A1C4FD,100:C2E9FB&text=Nurullah%20Turgut&fontColor=2D3748&fontSize=48&fontAlignY=38&desc=Mobile%20Developer%20%E2%80%A2%20Flutter%20%26%20Dart&descAlignY=60&descSize=18" width="100%" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:A1C4FD,100:C2E9FB&text=Nurullah%20Turgut&fontColor=2D3748&fontSize=48&fontAlignY=38&desc=Mobile%20Developer%20%E2%80%A2%20Flutter%20%E2%80%A2%20Dart&descAlignY=60&descSize=18" width="100%" alt="header" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3500&pause=900&color=6C8EBF&center=true&vCenter=true&width=520&lines=Computer+Engineering+Student;Building+clean+%26+useful+mobile+apps;Flutter+%E2%80%A2+Supabase+%E2%80%A2+Clean+Architecture" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3500&pause=900&color=6C8EBF&center=true&vCenter=true&width=520&lines=Computer+Engineering+Student;Building+clean+and+useful+mobile+apps;Flutter+%E2%80%A2+Supabase+%E2%80%A2+Clean+Architecture" alt="typing" />
 </p>
 
 <p align="center">
