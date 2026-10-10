@@ -5,7 +5,6 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nurullah-turgut1907"><img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF" alt="LinkedIn" /></a>
   <a href="mailto:turgutnurullah1907@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF" alt="Email" /></a>
   <img src="https://komarev.com/ghpvc/?username=nurullahturgut&label=VIEWS&color=0D1117&style=for-the-badge" alt="Profile views" />
 </p>
